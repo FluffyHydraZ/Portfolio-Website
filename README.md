@@ -7,4 +7,4 @@ Pages:
 - About (Main)
 - Projects
 - Contact Me
-- ????
+- Skills
